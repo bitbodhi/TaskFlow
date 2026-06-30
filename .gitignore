@@ -446,3 +446,7 @@ appsettings.Development.json
 .env.*
 *.user
 src/web/public/config.json
+
+# --- BMAD tooling & scratch output (installed locally; not product code) ---
+/_bmad/
+/_bmad-output/
